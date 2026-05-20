@@ -1,6 +1,6 @@
-# phishing-link-detectorr
+# phishing-link-detector
 The Phishing Link Detector is a cybersecurity web application developed using Python, Flask, and machine learning to identify malicious URLs. The system analyzes URL features and classifies links as safe or phishing, helping users avoid cyber threats, data theft, and online fraud.
-# 🛡️ PhishGuard — Phishing URL Detection Tool
+# 🛡️Phishing URL Detection Tool
 
 PhishGuard is a modern phishing URL detection web application built using Flask, HTML, CSS, and JavaScript.
 
